@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cardinal_north">N</string>
+    <string name="cardinal_east">E</string>
+    <string name="cardinal_south">S</string>
+    <string name="cardinal_west">W</string>
+    <string name="app_name">UAV-T</string>
+    <string name="start">START</string>
+    <string name="back">BACK</string>
+    <string name="stop">STOP</string>
+    <string name="done">DONE</string>
+    <string name="volume">Volume:</string>
+    <string name="size">Size:</string>
+    <string name="hint">Type answer here</string>
+    <color name="navy">#000080</color>
+
+</resources>

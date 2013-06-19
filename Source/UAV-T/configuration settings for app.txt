@@ -1,0 +1,6 @@
+gamma.virtualdiscoverycenter.net
+5222
+nickname: YOUR_USERNAME_[_YOUR_NUMBER_]
+room: sandbox@conference.gamma.virtualdiscoverycenter.net
+userid: nickname@gamma.virtualdiscoverycenter.net
+pass: WHATEVA YOU WANT!

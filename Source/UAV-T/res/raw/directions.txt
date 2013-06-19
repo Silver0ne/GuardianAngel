@@ -1,0 +1,21 @@
+DIRECTIONS:
+
+1. View settings and connect to an XMPP server.
+
+2. When ready, press "START" to launch the application.
+
+3. Point the reticle at the target and press record (the
+button located in the right hand corner of the screen).
+   
+4. When finished, press stop (the button located in the left
+hand corner of the screen).
+  
+5. Choose ONE answer that best describes the target. Enter a
+relevant landmark (ie. a specific building, sign, etc.) in
+the provided space. When finished, press "DONE".
+   
+6. Using the provided map plot the estimated path of the target.
+To do this press "Plot the flight path of the UAV", then touch
+on the screen where you think the target is heading. A sufficient
+amount of points is recommended. When done plotting points press
+"Send".
